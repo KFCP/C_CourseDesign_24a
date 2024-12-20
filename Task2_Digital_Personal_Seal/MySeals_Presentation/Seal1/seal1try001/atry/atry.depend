@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1709165325 source:c:\users\p\desktop\atry.c
+	<CONIO.H>
+	<STDLIB.H>
+	<STDIO.H>
+	<MATH.H>
+	<MALLOC.H>
+	<string.h>
+	<pshpack2.h>
+	<poppack.h>
+
+1709191748 source:c:\users\p\desktop\seal1try001\atry\atry.c
+	<CONIO.H>
+	<STDLIB.H>
+	<STDIO.H>
+	<MATH.H>
+	<MALLOC.H>
+	<string.h>
+	<pshpack2.h>
+	<poppack.h>
+
