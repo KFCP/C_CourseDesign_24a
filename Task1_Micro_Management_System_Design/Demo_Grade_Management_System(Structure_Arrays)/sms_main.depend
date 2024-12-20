@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1645314129 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_delete1.c
+	"sms_struct.h"
+
+1645314132 e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_struct.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1645314129 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_input.c
+	"sms_struct.h"
+
+1645314129 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_insert.c
+	"sms_struct.h"
+
+1645314135 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_load.c
+	"sms_struct.h"
+
+1645314131 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_print.c
+	"sms_struct.h"
+
+1645314131 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_save.c
+	"sms_struct.h"
+
+1645314135 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_search.c
+	"sms_struct.h"
+
+1645314131 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_sort.c
+	"sms_struct.h"
+
+1645512226 source:e:\2022年c课程设计演示程序及相关\成绩管理系统（采用结构体数组）的示例参考程序\sms_main.c
+	"sms_struct.h"
+

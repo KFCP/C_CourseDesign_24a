@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: sms_main - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\XcoDerS\AppData\Local\Temp\RSPCD45.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/sms_main.pdb" /debug /machine:I386 /out:"Debug/sms_main.exe" /pdbtype:sept 
+".\Debug\sms_delete1.obj"
+".\Debug\sms_input.obj"
+".\Debug\sms_insert.obj"
+".\Debug\sms_load.obj"
+".\Debug\sms_main.obj"
+".\Debug\sms_print.obj"
+".\Debug\sms_save.obj"
+".\Debug\sms_search.obj"
+".\Debug\sms_sort.obj"
+]
+Creating command line "link.exe @C:\Users\XcoDerS\AppData\Local\Temp\RSPCD45.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating temporary file "C:\Users\XcoDerS\AppData\Local\Temp\RSPCFB7.tmp" with contents
+[
+/nologo /o"Debug/sms_main.bsc" 
+".\Debug\sms_delete1.sbr"
+".\Debug\sms_input.sbr"
+".\Debug\sms_insert.sbr"
+".\Debug\sms_load.sbr"
+".\Debug\sms_main.sbr"
+".\Debug\sms_print.sbr"
+".\Debug\sms_save.sbr"
+".\Debug\sms_search.sbr"
+".\Debug\sms_sort.sbr"]
+Creating command line "bscmake.exe @C:\Users\XcoDerS\AppData\Local\Temp\RSPCFB7.tmp"
+Creating browse info file...
+Error spawning bscmake.exe
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+sms_main.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
