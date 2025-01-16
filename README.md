@@ -7,6 +7,8 @@ For the opening of the `Unrestricted_Guidance_2021.pdf` file, please refer to th
 
 Please unzip the compressed package `Fonts.7z` and use the txt files inside to replace all txt files with the same file names in the other folders.
 
+**If you have any questions, please use the issue feature to raise them.** 
+
 ## Task 1
 
 Task 1 in this document refers to **Chapter 3, Task 2 (Design of a Small Management System Program)**. The contents in the folders *Demo_Grade_Management_System(Linked_List)* and *Demo_Grade_Management_System(Structure_Arrays)* are provided resources, and it is recommended to observe and learn from them first. The *Linked_List* version of the program can be viewed by directly examining the code in the `sms.c` file and attempting to run it. The *Structure_Arrays* version of the program needs to be opened in CodeBlocks by opening the `sms_main.cbp` file, then examining the files in the Sources and Headers sections on the left. Alternatively, you can directly view the `.c` and `.h` files in the folder.
