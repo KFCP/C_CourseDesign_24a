@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709193455 source:c:\users\p\desktop\seal2try001\seal2try001\main.cpp
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<malloc.h>
+	<string.h>
+	<pshpack2.h>
+	<poppack.h>
+
