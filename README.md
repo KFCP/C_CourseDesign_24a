@@ -4,6 +4,7 @@ Based on C, this course design includes 2 parts which are Task1_Micro_Management
 # Step-by-Step Guide:
 
 For the opening of the `Unrestricted_Guidance_2021.pdf` file, please refer to the commit description of the file.
+
 Please unzip the compressed package `Fonts.7z` and use the txt files inside to replace all txt files with the same file names in the other folders.
 
 ## Task 1
